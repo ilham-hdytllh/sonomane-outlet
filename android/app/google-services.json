@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "872089815425",
+    "project_id": "dbfoodmenu",
+    "storage_bucket": "dbfoodmenu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872089815425:android:1fbbc00aaf80ea0b7f0080",
+        "android_client_info": {
+          "package_name": "in.sonomane.cus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872089815425-00acec4d01fc7mtcrqk09lpll9kglq3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sonomane.cus",
+            "certificate_hash": "89a5d915e3424f4c9597bae4e36fddbefaede576"
+          }
+        },
+        {
+          "client_id": "872089815425-3gku34f1gtlgrhtfpl4368m364vvm3nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sonomane.cus",
+            "certificate_hash": "f9a1ea9e531baf9d213837d7b5d8466faf232f17"
+          }
+        },
+        {
+          "client_id": "872089815425-52m5go5lld4hk1igpdp5mljr3a0p4t6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sonomane.cus",
+            "certificate_hash": "b8df93f27003bcb26f20bb285eb75821b58c5f68"
+          }
+        },
+        {
+          "client_id": "872089815425-oc9nm36sqbq9hgoneir16s217d2p9rb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sonomane.cus",
+            "certificate_hash": "4abb9a5f2ffd566b5a7439a9fdf9d6d0ac2fb892"
+          }
+        },
+        {
+          "client_id": "872089815425-rfgu9hl9e69f6cat2r8p1eelhocpkn5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sonomane.cus",
+            "certificate_hash": "ee2d22804608b32a7294623b00abe0601f67529c"
+          }
+        },
+        {
+          "client_id": "872089815425-alcgbhnasi91erpufqkqp0q2brquv8mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRsowgVCR6I-T_NXABq1amKKSpdQ5HRn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872089815425-alcgbhnasi91erpufqkqp0q2brquv8mh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "872089815425-68hpm0qq187pvrp7vmiqtdonrtq1fc9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "inn.checkin.innotia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872089815425:android:5a74a04822b445ce7f0080",
+        "android_client_info": {
+          "package_name": "in.sonomane.outlet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872089815425-3n46ckhk9rpje8imdko7luj453p7f132.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sonomane.outlet",
+            "certificate_hash": "ee2d22804608b32a7294623b00abe0601f67529c"
+          }
+        },
+        {
+          "client_id": "872089815425-5m7ojl8g5cj7kjslppr0uvub8vu6o3kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sonomane.outlet",
+            "certificate_hash": "89a5d915e3424f4c9597bae4e36fddbefaede576"
+          }
+        },
+        {
+          "client_id": "872089815425-9r59h4m7m3ub03clkhcoie6l5n136m3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sonomane.outlet",
+            "certificate_hash": "5b9aafd285d5f55c5bc22d14ac5ed9b6609c9b21"
+          }
+        },
+        {
+          "client_id": "872089815425-dvrnrs5s8m136dap8e1iicmh762ivmsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sonomane.outlet",
+            "certificate_hash": "4abb9a5f2ffd566b5a7439a9fdf9d6d0ac2fb892"
+          }
+        },
+        {
+          "client_id": "872089815425-alcgbhnasi91erpufqkqp0q2brquv8mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRsowgVCR6I-T_NXABq1amKKSpdQ5HRn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872089815425-alcgbhnasi91erpufqkqp0q2brquv8mh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "872089815425-68hpm0qq187pvrp7vmiqtdonrtq1fc9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "inn.checkin.innotia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
